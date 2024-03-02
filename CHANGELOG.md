@@ -1,0 +1,5 @@
+- V1: I used to make a reference to "Giorgio by Moroder" by Daft Punk.
+- v2: I tried to make something professional.
+- v3: I choose to use several images shown side by side, like a gallery.
+- v4: I threshhold those images.
+- v5: I organize the current image in a folder called "assets".  
